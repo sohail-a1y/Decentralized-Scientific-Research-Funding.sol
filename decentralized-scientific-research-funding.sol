@@ -150,4 +150,4 @@ For questions, suggestions, or partnerships, please reach out to our team:
 ---
 
 *Building the future of scientific research funding, one milestone at a time.*
-contract address:
+
