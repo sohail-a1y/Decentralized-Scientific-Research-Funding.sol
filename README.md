@@ -386,3 +386,5 @@ contract DecentralizedResearchFunding is ReentrancyGuard, Ownable {
 }
 
 contact address: 0xEb867be86F06F7F16592f23cB37C2cCbEa1049d0
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/945c2cd5-bd0b-4059-b4ed-c8dba2f54501" />
